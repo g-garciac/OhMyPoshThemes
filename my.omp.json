@@ -38,10 +38,10 @@
           "foreground": "#000000",
           "background": "#4e9a06",
           "properties": {
-            "branch_icon": "\uF126 ",
             "display_stash_count": true,
             "display_upstream_icon": true,
             "status_colors_enabled": true,
+            "display_status": true,
             "local_changes_color": "#c4a000",
             "ahead_and_behind_color": "#f26d50",
             "behind_color": "#4e9a06",
